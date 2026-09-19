@@ -1,5 +1,11 @@
 # Propuesta DevSync: Comunicación Asertiva para Equipos Remotos
 
+## Integrantes
+* **Carlos Manuel García Escobar** - Carné: 202500132
+* **Luis Angel García Vásquez** - Carné: 202505370
+
+## Descripción de la Propuesta
+
 DevSync es un marco de trabajo diseñado para optimizar la comunicación y la colaboración en equipos de desarrollo de software distribuidos geográficamente. Su objetivo es mitigar riesgos asociados a la pérdida de contexto, la dispersión de información y las fricciones en entornos remotos.
 
 ## Componentes Principales
